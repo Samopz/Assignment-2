@@ -1,0 +1,42 @@
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  top: 50;
+}
+
+.left {
+  border-right: 20px;
+  padding: 150px;
+  left: 0;
+}
+
+.right {
+  padding: 20px;
+
+  border-radius: 10px;
+  right: 0;
+  background-color: #ffffff;
+}
+
+.main {
+  background-color: azure;
+}
+
+.background {
+  background-color: rgb(0, 255, 255);
+}
+
+.center {
+  border: 100px;
+  text-align: center;
+  padding: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.font {
+  color: aqua;
+  text-decoration: underline;
+  cursor: pointer;
+}
